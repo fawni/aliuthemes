@@ -3,8 +3,8 @@
         "author": "obscurity",
         "name": "amora",
         "license": "ISC",
-        "updater": "https:\/\/raw.githubusercontent.com\/x6r\/aliuthemes\/master\/amora.json",
-        "version": "1.0"
+        "updater": "https:\/\/raw.githubusercontent.com\/x6r\/aliuthemes\/master\/amora\/amora.json",
+        "version": "1.0.0"
     },
     "background": {},
     "fonts": {
