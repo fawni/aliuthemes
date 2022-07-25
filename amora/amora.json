@@ -3,12 +3,12 @@
         "author": "obscurity",
         "name": "amora",
         "license": "ISC",
-        "updater": "https:\/\/raw.githubusercontent.com\/x6r\/aliuthemes\/master\/amora\/amora.json",
-        "version": "1.0.0"
+        "version": "1.0.1",
+        "updater": "https:\/\/raw.githubusercontent.com\/x6r\/aliuthemes\/master\/amora\/amora.json"
     },
     "background": {},
     "fonts": {
-        "*": "https://github.com/x6r/aliuthemes/blob/master/amora/assets/iosevka-comfy-regular.ttf?raw=true"
+        "*": "https:\/\/github.com\/x6r\/iosevka-comfy\/blob\/master\/ttf\/iosevka-comfy-regular.ttf?raw=true"
     },
     "simple_colors": {
         "background": -13621192,
@@ -23,7 +23,6 @@
         "primary_dark_660": -14475991,
         "primary_dark_800": -14475991,
         "uikit_btn_bg_color_selector_red": -6345896,
-        "brand_new_560": -4206141,
         "link_500": -4206141,
         "uikit_btn_compound_color_selector_dark": -1556608,
         "primary_700": -248896719,
@@ -31,8 +30,18 @@
         "uikit_btn_compound_color_selector_light": -1556608,
         "primary_700_alpha_60": -1556608,
         "uikit_settings_item_text_color_light": -10269067,
-        "brand_500_alpha_20": 609630299
+        "brand_500_alpha_20": 609630299,
+        "primary_dark_360": -1184777,
+        "uikit_btn_bg_color_selector_green": -6112600,
+        "primary_dark_330": -10269067
     },
-    "drawable_tints": {},
+    "drawable_tints": {
+        "drawable_overlay_channels_dark": -14015695,
+        "ic_add_friend_green_check": -6112600,
+        "ic_check_green_24dp": -6112600,
+        "ic_checkmark_green_16dp": -6112600,
+        "drawable_open_folder_dark": -13686728,
+        "drawable_bg_reaction_dark": -14015695
+    },
     "raws": {}
 }
