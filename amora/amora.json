@@ -3,7 +3,7 @@
         "author": "obscurity",
         "name": "amora",
         "license": "ISC",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "updater": "https:\/\/raw.githubusercontent.com\/x6r\/aliuthemes\/master\/amora\/amora.json"
     },
     "background": {},
@@ -40,8 +40,7 @@
         "ic_add_friend_green_check": -6112600,
         "ic_check_green_24dp": -6112600,
         "ic_checkmark_green_16dp": -6112600,
-        "drawable_open_folder_dark": -13686728,
-        "drawable_bg_reaction_dark": -14015695
+        "drawable_open_folder_dark": -13686728
     },
     "raws": {}
 }
