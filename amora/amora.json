@@ -3,12 +3,12 @@
         "author": "obscurity",
         "name": "amora",
         "license": "ISC",
-        "version": "1.0.2",
+        "version": "1.0.3",
         "updater": "https:\/\/raw.githubusercontent.com\/x6r\/aliuthemes\/master\/amora\/amora.json"
     },
     "background": {},
     "fonts": {
-        "*": "https:\/\/github.com\/x6r\/iosevka-comfy\/blob\/master\/ttf\/iosevka-comfy-regular.ttf?raw=true"
+        "*": "https:\/\/github.com\/x6r\/aliuthemes\/blob\/master\/amora\/assets\/iosevka-comfy-regular.ttf?raw=true"
     },
     "simple_colors": {
         "background": -13621192,
